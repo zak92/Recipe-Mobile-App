@@ -1,0 +1,230 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RecipeNutrientInfo should match snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#ff6c9b",
+        "borderColor": "#ff6c9b",
+        "borderWidth": 2,
+        "margin": 5,
+        "padding": "1%",
+        "width": "25%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+      testID="calories"
+    />
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 16,
+          "paddingTop": "2%",
+          "textAlign": "center",
+        }
+      }
+    >
+      Calories
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#ff6c9b",
+        "borderColor": "#ff6c9b",
+        "borderWidth": 2,
+        "margin": 5,
+        "padding": "1%",
+        "width": "25%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+      testID="energy"
+    />
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 16,
+          "paddingTop": "2%",
+          "textAlign": "center",
+        }
+      }
+    >
+      Energy(kcal)
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#ff6c9b",
+        "borderColor": "#ff6c9b",
+        "borderWidth": 2,
+        "margin": 5,
+        "padding": "1%",
+        "width": "25%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+      testID="protein"
+    />
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 16,
+          "paddingTop": "2%",
+          "textAlign": "center",
+        }
+      }
+    >
+      Protein(g)
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#ff6c9b",
+        "borderColor": "#ff6c9b",
+        "borderWidth": 2,
+        "margin": 5,
+        "padding": "1%",
+        "width": "25%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+      testID="carbs"
+    />
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 16,
+          "paddingTop": "2%",
+          "textAlign": "center",
+        }
+      }
+    >
+      Carbs(g)
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#ff6c9b",
+        "borderColor": "#ff6c9b",
+        "borderWidth": 2,
+        "margin": 5,
+        "padding": "1%",
+        "width": "25%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+      testID="sodium"
+    />
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 16,
+          "paddingTop": "2%",
+          "textAlign": "center",
+        }
+      }
+    >
+      Sodium(mg)
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#ff6c9b",
+        "borderColor": "#ff6c9b",
+        "borderWidth": 2,
+        "margin": 5,
+        "padding": "1%",
+        "width": "25%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+      testID="cholesterol"
+    />
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 16,
+          "paddingTop": "2%",
+          "textAlign": "center",
+        }
+      }
+    >
+      Cholesterol(mg)
+    </Text>
+  </View>
+</View>
+`;

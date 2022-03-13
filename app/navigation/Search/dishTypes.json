@@ -1,0 +1,80 @@
+{
+  "dish_types": [
+    {
+      "dish": "Main course",
+      "image": "MainCourse"
+    },
+    {
+      "dish": "Sandwiches",
+      "image": "Sandwich"
+    },
+    {
+      "dish": "Soup",
+      "image": "Soup"
+    },
+    {
+      "dish": "Drinks",
+      "image": "Drinks"
+    },
+    {
+      "dish": "Desserts",
+      "image": "Desserts"
+    },
+    {
+      "dish":  "Salad",
+      "image": "Salad"
+    },
+    {
+      "dish": "Pancake",
+      "image": "Pancake"
+    },
+    {
+      "dish": "Biscuits and cookies",
+      "image": "Cookies"
+    },
+    {
+      "dish":  "Alcohol-cocktail",
+      "image": "Cocktail"
+    },
+    {
+      "dish": "Bread",
+      "image": "Bread"
+    },
+    {
+      "dish": "Cereals",
+      "image": "Cereals"
+    },
+    {
+      "dish": "Condiments and sauces",
+      "image": "Sauces"
+    },
+    
+    {
+      "dish": "Egg",
+      "image": "Egg"
+    },
+   
+    {
+      "dish":  "Omelet",
+      "image": "Omelet"
+    },
+    {
+      "dish": "Preps",
+      "image": "Preps"
+    },
+    {
+      "dish": "Preserve",
+      "image": "Preserve"
+    },
+    
+    {
+      "dish": "Starter",
+      "image": "Starter"
+    }
+    
+  ]
+}
+   
+    
+    
+    

@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectType should match snapshot 1`] = `
+<View
+  style={
+    Object {
+      "color": "black",
+      "padding": "5%",
+      "textAlign": "left",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontFamily": "Roboto_400Regular",
+          "fontSize": 16,
+          "textAlign": "left",
+        }
+      }
+      testID="type"
+    />
+  </View>
+</View>
+`;

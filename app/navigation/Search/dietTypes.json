@@ -1,0 +1,29 @@
+{
+  "diet_types": [
+    {
+      "label": "Balanced",
+      "param": "balanced"
+    },
+    {
+      "label": "High-Fiber",
+      "param": "high-fiber"
+    },
+    {
+      "label": "High-Protein",
+      "param": "high-protein"
+    },
+    {
+      "label": "Low-Carb",
+      "param": "low-carb"
+    },
+    {
+      "label": "Low-Fat",
+      "param": "low-fat"
+    },
+    {
+      "label": "Low-Sodium",
+      "param": "low-sodium"
+    }
+    
+  ]
+}

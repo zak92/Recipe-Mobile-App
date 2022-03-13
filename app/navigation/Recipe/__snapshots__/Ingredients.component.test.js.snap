@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ingredients should match snapshot 1`] = `
+<View
+  style={
+    Object {
+      "borderBottomColor": "lightgrey",
+      "borderBottomWidth": 1,
+      "paddingBottom": "2%",
+      "paddingLeft": "5%",
+      "paddingRight": "5%",
+      "paddingTop": "2%",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "black",
+        "fontFamily": "Roboto_400Regular",
+        "fontSize": 16,
+      }
+    }
+    testID="ingredients"
+  />
+</View>
+`;
