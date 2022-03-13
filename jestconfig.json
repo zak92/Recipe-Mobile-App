@@ -1,0 +1,7 @@
+ {
+  "preset": "jest-expo",
+  "collectCoverage": true,
+  "setupFilesAfterEnv": [
+    "<rootDir>/jestSetup.js"
+  ]
+}
